@@ -1,7 +1,7 @@
 
 # SE Master
 
-A brief description of what this project does and who it's for
+A multi use Xbox source engine modding tool.
 
 
 ## Features
